@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QR Scanner</string>
+    <string name="default_qr_value">QR Code says…</string>
+    <string name="align_qr">Align QR Code within the frame to scan</string>
+    <string name="copy_text">👇 Tap on the text below to copy 👇</string>
+    <string name="rate_us">⭐ Rate Us On Playstore ⭐</string>
+</resources>
